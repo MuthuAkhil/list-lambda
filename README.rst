@@ -9,14 +9,6 @@ List Lambdas functions
 
 
 
-
-Motivation
-----------
-- Read our blog post, `"The curse of dead Lambda functions" <https://epsagon.com/tools/the-curse-of-dead-aws-lambda-functions/>`__.
-- Enumerate list of Lambda functions from **every region**.
-- Detect **"dead"** or unused Lambda functions.
-
-
 Setup
 -----
 .. code-block:: bash
